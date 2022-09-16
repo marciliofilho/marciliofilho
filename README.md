@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Marcílio de Almeida Filho
 <div align="center">
   <a href="https://github.com/marciliofilho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciliofilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciliofilho&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciliofilho&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
@@ -13,7 +13,7 @@
   
  **Environment, Libraries and Frameworks**
 
-<img title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">|<img title="NextJS" alt="NextJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">|<img title="NextJS" alt="NextJS" width="40px" src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 |--|--|--|--|
   
   **Databases**
